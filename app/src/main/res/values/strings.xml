@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">buttonevent</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="clickme">clickme</string>
+    <string name="anotherbutton">anotherbutton</string>
+</resources>
